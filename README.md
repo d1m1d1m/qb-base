@@ -1,0 +1,1 @@
+#  QB - Base resource
